@@ -1,0 +1,6 @@
+Common Networking Problems
+- Network Congestion
+- Packet loss
+- High bandwidth usage
+- Routing problems
+- DNS issues
