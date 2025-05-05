@@ -1,0 +1,11 @@
+commit af145c970344c316a5e3abcbfc31bcb3ebf4e99d
+Author: jieian <sebastian.jieian@gmail.com>
+Date:   Mon May 5 01:42:04 2025 +0000
+
+    Commited networking_notes.txt in develop branch
+
+commit 74b023507d8477af0a2dd840ca68fdfccd7fc61a
+Author: jieian <sebastian.jieian@gmail.com>
+Date:   Mon May 5 01:37:05 2025 +0000
+
+    Initial commit with README
